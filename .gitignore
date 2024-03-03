@@ -18,6 +18,3 @@ dist/
 # Cache and build directories
 .cache/
 .build/
-
-# Ignore server data file (assuming db.json is used)
-db.json
